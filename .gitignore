@@ -1,0 +1,6 @@
+db_settings.py
+*.pyc
+*.swp
+*.log
+*.bak
+
